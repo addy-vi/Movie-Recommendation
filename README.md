@@ -61,4 +61,4 @@ This project demonstrates how to build a simple movie recommendation system usin
 To clone this repository to your local machine, run the following command:
 
 ```bash
-git clone https://github.com/addy-vi/Movie-Recommendation.git
+git clone https://github.com/adnan-saif/Movie-Recommendation.git
